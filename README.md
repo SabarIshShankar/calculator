@@ -24,3 +24,4 @@ Usage
 ---
 
 `npm start`
+[![Run on Repl.it](https://repl.it/badge/github/ahfarmer/calculator)](https://repl.it/github/ahfarmer/calculator)
